@@ -125,7 +125,7 @@ ul li{
 }
 .body .b-nav ul .lis{
 	list-style: none;
-	width: 33%;
+	width: 25%;
 	float: left;
 	border-radius:3px;
 }
@@ -160,7 +160,7 @@ ul li{
 	float: left;
 	text-align: center;
 	width: 8%;
-	font-weight: bold;
+	/* font-weight: bold; */
 	box-sizing: border-box;
 	border-left: 2px solid #66ffff;
 	color: #ffffff;
